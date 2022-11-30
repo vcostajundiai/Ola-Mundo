@@ -1,4 +1,6 @@
 # Ola, Mundo!
  Primeiro repositorio do curso git e github.
 
- Reposit[o]rio criado durante o curso em video.
+ Repositorio criado durante o curso em video.
+ 
+ Essa linha adicionei diretamente pelo site
